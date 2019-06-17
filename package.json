@@ -1,0 +1,25 @@
+{
+  "name": "pdf-notes",
+  "version": "1.0.0",
+  "description": "研究pdf格式已经相关技术",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champkeh/pdf-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/champkeh/pdf-notes/issues"
+  },
+  "homepage": "https://github.com/champkeh/pdf-notes#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^2.0.943"
+  },
+  "devDependencies": {}
+}
