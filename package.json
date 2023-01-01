@@ -19,7 +19,7 @@
   "homepage": "https://github.com/champkeh/pdf-notes#readme",
   "dependencies": {
     "pdf-parse": "^1.1.1",
-    "pdfjs-dist": "^2.0.943"
+    "pdfjs-dist": "^2.16.105"
   },
   "devDependencies": {}
 }
